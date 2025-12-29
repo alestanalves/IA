@@ -42,7 +42,7 @@ Essa imagem define:
 
 ---
 
-### 🧾 Prompt — Geração da imagem
+### 🧾 Prompt — Geração da imagem (lembrando de anexar a imagem sua de referencia do personagem 
 
 ```text
 Use the uploaded image of the character as the exact reference.
