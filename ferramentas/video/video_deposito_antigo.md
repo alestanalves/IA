@@ -42,7 +42,7 @@ Essa imagem define:
 
 ---
 
-### 🧾 Prompt — Geração da imagem (lembrando de anexar a imagem sua de referencia do personagem 
+### 🧾 Prompt — Geração da imagem (lembrando de anexar a imagem sua de referencia do personagem)
 
 ```text
 Use the uploaded image of the character as the exact reference.
@@ -88,9 +88,9 @@ Pense como um explorador, não como um diretor
 ## 🎞️ Etapa 2 — Geração do vídeo (Veo 3, Sora ou Kling AI)
 ### 🎯 Objetivo
 
-Transformar a imagem em um plano-sequência em POV, com movimento humano natural e imperfeito.
+Transformar a imagem em um plano-sequência em POV, com movimento humano natural e imperfeito. 
 
-### 🧾 Prompt — Geração do vídeo
+### 🧾 Prompt — Geração do vídeo (anexar a imagem gerada acima e colar o prompt abaixo)
 
 ```text
 Nada deve se mover além do ambiente.
